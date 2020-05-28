@@ -19,4 +19,5 @@ Weather Tool is used to extract data from an open source weather API which is th
    Default API Key : 1342ac8f3abc41e68d0152830202205
 2. If Default Key is being rejected, please create a new one.
 
+# Author
 Created By : GitHub | amitray007
