@@ -18,7 +18,7 @@ Weather Tool is used to extract data from an open source weather API which is th
 1. If you don't want to signup for the apikey, just use the default one provided.
    Default API Key : 1342ac8f3abc41e68d0152830202205
 2. If Default Key is being rejected, please create a new one.
-3. Install all the requirements by using the command 'pip -r install requirements.txt' from command prompt.
+3. Install all the requirements by using the command 'pip install -r requirements.txt' from command prompt.
 
 # Author
 Created By : GitHub | amitray007
