@@ -321,7 +321,7 @@ class Weather:
         print(' [++] Local Time : {}'.format(parsedData["location"]["localtime"]))
 
 if __name__ == "__main__":
-    system('title Weather Tool')
+    system('title Weather Tool - By GitHub : amitray007')
     while True:
         _ = system('cls')
         print(Initials)
